@@ -1,0 +1,4 @@
+user_valid:
+  max_length_name: 30
+  max_length_user_name: 20
+  min_passwd: 8
