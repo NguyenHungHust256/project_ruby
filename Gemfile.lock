@@ -379,7 +379,7 @@ GEM
     popper_js (1.14.5)
     powerpack (0.1.2)
     public_suffix (3.1.1)
-    puma (3.12.1)
+    puma (3.12.4)
     pygments.rb (1.2.1)
       multi_json (>= 1.0.0)
     rack (2.0.7)
@@ -546,7 +546,7 @@ DEPENDENCIES
   minitest-reporters
   parser
   pg
-  puma (~> 3.11)
+  puma (~> 3.12)
   pygments.rb
   rails (~> 5.2.2, >= 5.2.2.1)
   rails-controller-testing
